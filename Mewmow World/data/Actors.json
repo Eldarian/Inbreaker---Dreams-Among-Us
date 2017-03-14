@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"battlerName":"Henry","characterIndex":0,"characterName":"Henry","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Henry","traits":[],"initialLevel":1,"maxLevel":99,"name":"Генри","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Lucy","characterIndex":0,"characterName":"Lucy","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Lucy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Люси","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Olly","characterIndex":0,"characterName":"Olly","classId":7,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Olly","traits":[],"initialLevel":1,"maxLevel":99,"name":"Олли","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Jenny","characterIndex":0,"characterName":"Jennyy","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Jenny","traits":[],"initialLevel":1,"maxLevel":99,"name":"Дженни","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Edward","characterIndex":0,"characterName":"Edward","classId":5,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Edward","traits":[],"initialLevel":1,"maxLevel":99,"name":"Эдвард","nickname":"Медиум","note":"","profile":""},
+{"id":6,"battlerName":"Ditrich","characterIndex":0,"characterName":"Ditrich","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Ditrich","traits":[],"initialLevel":1,"maxLevel":99,"name":"Дитрих","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Break","characterIndex":0,"characterName":"Break","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Break","traits":[],"initialLevel":1,"maxLevel":99,"name":"Питер","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"LD","characterIndex":0,"characterName":"LD","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"LD","traits":[],"initialLevel":1,"maxLevel":99,"name":"Маленький Мечта","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"John","characterIndex":0,"characterName":"John","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"John","traits":[],"initialLevel":1,"maxLevel":99,"name":"Джон","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"Mary","characterIndex":0,"characterName":"Mary","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Mary","traits":[],"initialLevel":1,"maxLevel":99,"name":"Мария","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"Edelstein","characterIndex":0,"characterName":"Edelstein","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Edelstein","traits":[],"initialLevel":1,"maxLevel":99,"name":"Эдельштейн","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"Boris","characterIndex":0,"characterName":"Boris","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Boris","traits":[],"initialLevel":1,"maxLevel":99,"name":"Борис","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
