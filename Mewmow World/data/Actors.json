@@ -12,5 +12,5 @@ null,
 {"id":10,"battlerName":"Mary","characterIndex":0,"characterName":"Mary","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Mary","traits":[],"initialLevel":1,"maxLevel":99,"name":"Мария","nickname":"","note":"","profile":""},
 {"id":11,"battlerName":"Edelstein","characterIndex":0,"characterName":"Edelstein","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Edelstein","traits":[],"initialLevel":1,"maxLevel":99,"name":"Эдельштейн","nickname":"","note":"","profile":""},
 {"id":12,"battlerName":"Boris","characterIndex":0,"characterName":"Boris","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Boris","traits":[],"initialLevel":1,"maxLevel":99,"name":"Борис","nickname":"","note":"","profile":""},
-{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":13,"battlerName":"Zelda","characterIndex":0,"characterName":"Zelda","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Zelda","traits":[],"initialLevel":1,"maxLevel":99,"name":"Зельда","nickname":"","note":"","profile":""}
 ]
