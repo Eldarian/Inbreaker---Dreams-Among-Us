@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":7,"parentId":0,"scrollX":1889,"scrollY":2650.5},
 {"id":2,"expanded":false,"name":"Плавающий город","order":1,"parentId":0,"scrollX":1688,"scrollY":2003.5},
-{"id":3,"expanded":false,"name":"Обычный город","order":8,"parentId":0,"scrollX":1084,"scrollY":1391.5},
+{"id":3,"expanded":false,"name":"Обычный город","order":8,"parentId":0,"scrollX":1076,"scrollY":1383.5},
 {"id":4,"expanded":false,"name":"Замок 3F","order":2,"parentId":0,"scrollX":1436,"scrollY":1142.5},
 {"id":5,"expanded":false,"name":"Комната Лиама","order":3,"parentId":0,"scrollX":525,"scrollY":318.5},
 {"id":6,"expanded":true,"name":"MAP006","order":4,"parentId":0,"scrollX":534,"scrollY":318.5},
