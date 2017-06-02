@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":6,"parentId":0,"scrollX":1890.5,"scrollY":2650.5},
-{"id":2,"expanded":false,"name":"Плавающий город","order":14,"parentId":0,"scrollX":1688.5,"scrollY":2003.5},
+{"id":2,"expanded":false,"name":"Плавающий город","order":14,"parentId":0,"scrollX":1688.7272727272727,"scrollY":2003.2727272727273},
 {"id":3,"expanded":false,"name":"Обычный город","order":7,"parentId":0,"scrollX":1372.5,"scrollY":1019.5},
 {"id":4,"expanded":false,"name":"Замок 3F","order":1,"parentId":0,"scrollX":1436,"scrollY":1142.5},
 {"id":5,"expanded":false,"name":"Комната Лиама","order":2,"parentId":0,"scrollX":525,"scrollY":318.5},
@@ -13,6 +13,6 @@ null,
 {"id":11,"expanded":true,"name":"палата","order":11,"parentId":7,"scrollX":529.5,"scrollY":318.5},
 {"id":12,"expanded":false,"name":"Дом с призраками","order":9,"parentId":0,"scrollX":531.5,"scrollY":318.5},
 {"id":13,"expanded":false,"name":"MAP013","order":12,"parentId":11,"scrollX":532,"scrollY":366.5},
-{"id":14,"expanded":false,"name":"Occultic club","order":15,"parentId":0,"scrollX":531.5,"scrollY":318.5},
-{"id":15,"expanded":false,"name":"Edward's and Peter's study","order":13,"parentId":0,"scrollX":539.5,"scrollY":305.5}
+{"id":14,"expanded":false,"name":"Occultic club","order":15,"parentId":0,"scrollX":594.1818181818181,"scrollY":335.6363636363636},
+{"id":15,"expanded":false,"name":"Edward's and Peter's study","order":13,"parentId":0,"scrollX":594.1818181818181,"scrollY":335.6363636363636}
 ]
