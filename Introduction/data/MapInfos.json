@@ -1,0 +1,23 @@
+[
+null,
+null,
+null,
+null,
+null,
+{"id":5,"expanded":false,"name":"Комната Лиама","order":1,"parentId":0,"scrollX":527,"scrollY":336.5},
+{"id":6,"expanded":true,"name":"MAP006","order":2,"parentId":0,"scrollX":527,"scrollY":336.5},
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+{"id":14,"expanded":true,"name":"Occultic club","order":3,"parentId":0,"scrollX":527,"scrollY":336.5},
+{"id":15,"expanded":false,"name":"Edward's and Peter's study","order":6,"parentId":0,"scrollX":527,"scrollY":288.5},
+{"id":16,"expanded":false,"name":"Scheme","order":4,"parentId":0,"scrollX":1919,"scrollY":999.5},
+{"id":17,"expanded":false,"name":"MAP017","order":5,"parentId":0,"scrollX":702,"scrollY":623.5},
+{"id":18,"expanded":false,"name":"Mansion","order":7,"parentId":0,"scrollX":735,"scrollY":514.5},
+{"id":19,"expanded":true,"name":"Inside Mansion - Hall","order":8,"parentId":18,"scrollX":832,"scrollY":640},
+{"id":20,"expanded":false,"name":"Inside Mansion - Dining Room","order":9,"parentId":18,"scrollX":832,"scrollY":640}
+]
