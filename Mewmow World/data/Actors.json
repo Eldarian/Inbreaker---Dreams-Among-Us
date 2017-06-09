@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Henry","characterIndex":0,"characterName":"Henry","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Henry","traits":[],"initialLevel":1,"maxLevel":10,"name":"Генри","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Henry","characterIndex":0,"characterName":"Henry_hat","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Henry","traits":[],"initialLevel":1,"maxLevel":10,"name":"Генри","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Lucy","characterIndex":0,"characterName":"Lucy","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Lucy","traits":[],"initialLevel":1,"maxLevel":10,"name":"Люси","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Olly","characterIndex":0,"characterName":"Olly","classId":7,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Olly","traits":[],"initialLevel":1,"maxLevel":10,"name":"Олли","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Jenny","characterIndex":0,"characterName":"Jennyy","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Jenny","traits":[],"initialLevel":1,"maxLevel":10,"name":"Дженни","nickname":"","note":"","profile":""},
