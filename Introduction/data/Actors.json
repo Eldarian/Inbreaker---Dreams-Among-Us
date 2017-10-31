@@ -14,5 +14,6 @@ null,
 {"id":12,"battlerName":"Boris","characterIndex":0,"characterName":"Boris","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Boris","traits":[],"initialLevel":1,"maxLevel":10,"name":"Борис","nickname":"","note":"","profile":""},
 {"id":13,"battlerName":"Zelda","characterIndex":0,"characterName":"Zelda","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Zelda","traits":[],"initialLevel":1,"maxLevel":10,"name":"Зельда","nickname":"","note":"","profile":""},
 {"id":14,"battlerName":"Dorian","characterIndex":0,"characterName":"Dorian","classId":12,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Dorian","traits":[],"initialLevel":1,"maxLevel":10,"name":"Дориан","nickname":"","note":"","profile":""},
-{"id":15,"battlerName":"melville","characterIndex":0,"characterName":"melville","classId":11,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"melville","traits":[],"initialLevel":1,"maxLevel":10,"name":"Мистер Мелвиль","nickname":"","note":"","profile":""}
+{"id":15,"battlerName":"melville","characterIndex":0,"characterName":"melville","classId":11,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"melville","traits":[],"initialLevel":1,"maxLevel":10,"name":"Мистер Мелвиль","nickname":"","note":"","profile":""},
+{"id":16,"battlerName":"You_bat","characterIndex":0,"characterName":"You","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":10,"name":"You","nickname":"","note":"","profile":""}
 ]
